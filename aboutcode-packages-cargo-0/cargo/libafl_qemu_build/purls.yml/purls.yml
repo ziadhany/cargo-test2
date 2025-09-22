@@ -1,0 +1,16 @@
+- pkg:cargo/libafl_qemu_build@0.9.0
+- pkg:cargo/libafl_qemu_build@0.10.0
+- pkg:cargo/libafl_qemu_build@0.10.1
+- pkg:cargo/libafl_qemu_build@0.11.0
+- pkg:cargo/libafl_qemu_build@0.11.1
+- pkg:cargo/libafl_qemu_build@0.11.2
+- pkg:cargo/libafl_qemu_build@0.12.0
+- pkg:cargo/libafl_qemu_build@0.13.0
+- pkg:cargo/libafl_qemu_build@0.13.1
+- pkg:cargo/libafl_qemu_build@0.13.2
+- pkg:cargo/libafl_qemu_build@0.14.0
+- pkg:cargo/libafl_qemu_build@0.14.1
+- pkg:cargo/libafl_qemu_build@0.15.0
+- pkg:cargo/libafl_qemu_build@0.15.1
+- pkg:cargo/libafl_qemu_build@0.15.2
+- pkg:cargo/libafl_qemu_build@0.15.3

@@ -1,0 +1,4 @@
+- pkg:cargo/libffi2@3.2.1
+- pkg:cargo/libffi2@3.2.2
+- pkg:cargo/libffi2@3.2.3
+- pkg:cargo/libffi2@3.3.0

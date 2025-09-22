@@ -1,0 +1,5 @@
+- pkg:cargo/copy_in_place@0.1.0
+- pkg:cargo/copy_in_place@0.1.1
+- pkg:cargo/copy_in_place@0.2.0
+- pkg:cargo/copy_in_place@0.2.1
+- pkg:cargo/copy_in_place@0.2.2

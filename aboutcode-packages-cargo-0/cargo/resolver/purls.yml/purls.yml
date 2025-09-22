@@ -1,0 +1,4 @@
+- pkg:cargo/resolver@0.1.0
+- pkg:cargo/resolver@0.1.1
+- pkg:cargo/resolver@0.1.2
+- pkg:cargo/resolver@0.1.3

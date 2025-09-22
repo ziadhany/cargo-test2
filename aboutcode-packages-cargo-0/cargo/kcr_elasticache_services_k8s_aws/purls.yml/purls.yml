@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250402.153846
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250409.154029
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250416.153921
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250423.153951
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250514.154044
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250521.154034
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250604.155355
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250820.154000
+- pkg:cargo/kcr_elasticache_services_k8s_aws@1.20250827.153817
+- pkg:cargo/kcr_elasticache_services_k8s_aws@2.20250910.153654

@@ -1,0 +1,16 @@
+- pkg:cargo/azure_sdk_storage_account@0.20.1
+- pkg:cargo/azure_sdk_storage_account@0.20.2
+- pkg:cargo/azure_sdk_storage_account@0.20.3
+- pkg:cargo/azure_sdk_storage_account@0.20.4
+- pkg:cargo/azure_sdk_storage_account@0.30.0
+- pkg:cargo/azure_sdk_storage_account@0.30.1
+- pkg:cargo/azure_sdk_storage_account@0.40.0
+- pkg:cargo/azure_sdk_storage_account@0.40.1
+- pkg:cargo/azure_sdk_storage_account@0.40.2
+- pkg:cargo/azure_sdk_storage_account@0.40.3
+- pkg:cargo/azure_sdk_storage_account@0.40.4
+- pkg:cargo/azure_sdk_storage_account@0.40.5
+- pkg:cargo/azure_sdk_storage_account@0.41.0
+- pkg:cargo/azure_sdk_storage_account@0.41.1
+- pkg:cargo/azure_sdk_storage_account@0.41.2
+- pkg:cargo/azure_sdk_storage_account@0.41.3

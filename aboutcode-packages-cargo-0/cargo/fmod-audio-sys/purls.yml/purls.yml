@@ -1,0 +1,8 @@
+- pkg:cargo/fmod-audio-sys@2.2.20
+- pkg:cargo/fmod-audio-sys@2.220.0
+- pkg:cargo/fmod-audio-sys@2.220.1
+- pkg:cargo/fmod-audio-sys@2.220.2
+- pkg:cargo/fmod-audio-sys@0.1.0
+- pkg:cargo/fmod-audio-sys@0.1.1
+- pkg:cargo/fmod-audio-sys@0.1.2
+- pkg:cargo/fmod-audio-sys@0.1.3

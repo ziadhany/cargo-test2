@@ -1,0 +1,15 @@
+- pkg:cargo/mls-rs-crypto-openssl@0.5.0
+- pkg:cargo/mls-rs-crypto-openssl@0.5.1
+- pkg:cargo/mls-rs-crypto-openssl@0.6.0
+- pkg:cargo/mls-rs-crypto-openssl@0.7.0
+- pkg:cargo/mls-rs-crypto-openssl@0.8.0
+- pkg:cargo/mls-rs-crypto-openssl@0.9.0
+- pkg:cargo/mls-rs-crypto-openssl@0.9.1
+- pkg:cargo/mls-rs-crypto-openssl@0.10.0
+- pkg:cargo/mls-rs-crypto-openssl@0.11.0
+- pkg:cargo/mls-rs-crypto-openssl@0.12.0
+- pkg:cargo/mls-rs-crypto-openssl@0.14.0
+- pkg:cargo/mls-rs-crypto-openssl@0.15.0
+- pkg:cargo/mls-rs-crypto-openssl@0.16.0
+- pkg:cargo/mls-rs-crypto-openssl@0.17.0
+- pkg:cargo/mls-rs-crypto-openssl@0.18.0

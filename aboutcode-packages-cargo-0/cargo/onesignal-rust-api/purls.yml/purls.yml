@@ -1,0 +1,10 @@
+- pkg:cargo/onesignal-rust-api@1.0.1
+- pkg:cargo/onesignal-rust-api@1.0.0
+- pkg:cargo/onesignal-rust-api@1.0.2
+- pkg:cargo/onesignal-rust-api@2.0.0
+- pkg:cargo/onesignal-rust-api@2.0.2
+- pkg:cargo/onesignal-rust-api@2.1.0
+- pkg:cargo/onesignal-rust-api@2.2.0
+- pkg:cargo/onesignal-rust-api@2.2.1
+- pkg:cargo/onesignal-rust-api@5.1.0-beta1
+- pkg:cargo/onesignal-rust-api@5.2.0-beta1

@@ -1,0 +1,2 @@
+- pkg:cargo/etcd-bin-vendored-linux-arm64@0.3.516
+- pkg:cargo/etcd-bin-vendored-linux-arm64@0.3.434
