@@ -1,0 +1,5 @@
+- pkg:cargo/rsass-macros@0.27.0
+- pkg:cargo/rsass-macros@0.28.0
+- pkg:cargo/rsass-macros@0.28.8
+- pkg:cargo/rsass-macros@0.28.10
+- pkg:cargo/rsass-macros@0.29.0

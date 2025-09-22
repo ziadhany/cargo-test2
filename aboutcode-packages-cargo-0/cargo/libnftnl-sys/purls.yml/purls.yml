@@ -1,0 +1,6 @@
+- pkg:cargo/libnftnl-sys@1.0.7
+- pkg:cargo/libnftnl-sys@1.0.8
+- pkg:cargo/libnftnl-sys@1.0.9
+- pkg:cargo/libnftnl-sys@1.0.10
+- pkg:cargo/libnftnl-sys@1.1.1
+- pkg:cargo/libnftnl-sys@1.1.2

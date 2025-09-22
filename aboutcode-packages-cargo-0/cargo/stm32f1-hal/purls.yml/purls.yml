@@ -1,0 +1,7 @@
+- pkg:cargo/stm32f1-hal@0.0.1
+- pkg:cargo/stm32f1-hal@0.0.2
+- pkg:cargo/stm32f1-hal@0.0.3
+- pkg:cargo/stm32f1-hal@0.0.4
+- pkg:cargo/stm32f1-hal@0.0.5
+- pkg:cargo/stm32f1-hal@0.2.0
+- pkg:cargo/stm32f1-hal@0.2.1

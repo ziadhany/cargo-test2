@@ -1,0 +1,4 @@
+- pkg:cargo/fedimint-lnv2-remote-client@0.0.1
+- pkg:cargo/fedimint-lnv2-remote-client@0.0.2
+- pkg:cargo/fedimint-lnv2-remote-client@0.0.3
+- pkg:cargo/fedimint-lnv2-remote-client@0.0.4

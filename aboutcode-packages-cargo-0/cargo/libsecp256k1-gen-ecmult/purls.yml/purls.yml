@@ -1,0 +1,4 @@
+- pkg:cargo/libsecp256k1-gen-ecmult@0.1.0
+- pkg:cargo/libsecp256k1-gen-ecmult@0.2.0
+- pkg:cargo/libsecp256k1-gen-ecmult@0.2.1
+- pkg:cargo/libsecp256k1-gen-ecmult@0.3.0

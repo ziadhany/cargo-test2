@@ -1,0 +1,2 @@
+- pkg:cargo/autodiff_derive@0.1.0
+- pkg:cargo/autodiff_derive@0.1.1

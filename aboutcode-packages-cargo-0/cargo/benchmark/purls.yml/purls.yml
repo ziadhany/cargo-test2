@@ -1,0 +1,9 @@
+- pkg:cargo/benchmark@0.1.0
+- pkg:cargo/benchmark@0.5.0
+- pkg:cargo/benchmark@0.5.7
+- pkg:cargo/benchmark@0.5.8
+- pkg:cargo/benchmark@0.6.0
+- pkg:cargo/benchmark@0.7.0
+- pkg:cargo/benchmark@0.7.1
+- pkg:cargo/benchmark@0.7.2
+- pkg:cargo/benchmark@0.8.0

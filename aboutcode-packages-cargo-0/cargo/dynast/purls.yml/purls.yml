@@ -1,0 +1,5 @@
+- pkg:cargo/dynast@0.9.0
+- pkg:cargo/dynast@0.9.1
+- pkg:cargo/dynast@0.10.0
+- pkg:cargo/dynast@0.11.0
+- pkg:cargo/dynast@0.12.0

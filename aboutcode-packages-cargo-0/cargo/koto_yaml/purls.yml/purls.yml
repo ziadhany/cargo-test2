@@ -1,0 +1,13 @@
+- pkg:cargo/koto_yaml@0.9.0
+- pkg:cargo/koto_yaml@0.9.1
+- pkg:cargo/koto_yaml@0.10.0
+- pkg:cargo/koto_yaml@0.11.0
+- pkg:cargo/koto_yaml@0.12.0
+- pkg:cargo/koto_yaml@0.13.0
+- pkg:cargo/koto_yaml@0.14.0
+- pkg:cargo/koto_yaml@0.14.1
+- pkg:cargo/koto_yaml@0.15.0
+- pkg:cargo/koto_yaml@0.15.1
+- pkg:cargo/koto_yaml@0.15.2
+- pkg:cargo/koto_yaml@0.15.3
+- pkg:cargo/koto_yaml@0.16.0

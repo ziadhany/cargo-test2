@@ -1,0 +1,11 @@
+- pkg:cargo/zksync_tee_verifier@0.1.0
+- pkg:cargo/zksync_tee_verifier@26.2.1-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@26.7.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@28.0.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@28.1.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@28.7.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@28.8.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@28.10.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@29.0.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@29.1.2-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@29.2.0-non-semver-compat

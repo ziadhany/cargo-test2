@@ -1,0 +1,12 @@
+- pkg:cargo/swamp-render-wgpu@0.0.10
+- pkg:cargo/swamp-render-wgpu@0.0.11
+- pkg:cargo/swamp-render-wgpu@0.0.12
+- pkg:cargo/swamp-render-wgpu@0.0.13
+- pkg:cargo/swamp-render-wgpu@0.0.14-alpha.1
+- pkg:cargo/swamp-render-wgpu@0.0.14-alpha.2
+- pkg:cargo/swamp-render-wgpu@0.0.14
+- pkg:cargo/swamp-render-wgpu@0.0.15
+- pkg:cargo/swamp-render-wgpu@0.0.16-alpha.1
+- pkg:cargo/swamp-render-wgpu@0.0.16-alpha.2
+- pkg:cargo/swamp-render-wgpu@0.0.17
+- pkg:cargo/swamp-render-wgpu@0.0.18

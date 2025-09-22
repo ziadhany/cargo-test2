@@ -1,0 +1,4 @@
+- pkg:cargo/junitxml2subunit@0.1.0
+- pkg:cargo/junitxml2subunit@1.0.0
+- pkg:cargo/junitxml2subunit@1.0.1
+- pkg:cargo/junitxml2subunit@1.1.0

@@ -1,0 +1,4 @@
+- pkg:cargo/windows_i686_gnullvm@0.0.0
+- pkg:cargo/windows_i686_gnullvm@0.52.5
+- pkg:cargo/windows_i686_gnullvm@0.52.6
+- pkg:cargo/windows_i686_gnullvm@0.53.0

@@ -1,0 +1,2 @@
+- pkg:cargo/wasm-opcodes@0.115.0
+- pkg:cargo/wasm-opcodes@0.115.1

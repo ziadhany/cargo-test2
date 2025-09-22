@@ -1,0 +1,2 @@
+- pkg:cargo/datafusion-materialized-views@0.1.0
+- pkg:cargo/datafusion-materialized-views@0.1.1
