@@ -1,0 +1,4 @@
+- pkg:cargo/eternalfest_cli@0.16.0
+- pkg:cargo/eternalfest_cli@0.17.0
+- pkg:cargo/eternalfest_cli@0.18.0
+- pkg:cargo/eternalfest_cli@0.18.2

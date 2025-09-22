@@ -1,0 +1,4 @@
+- pkg:cargo/wasm_crossword_generator@0.0.1
+- pkg:cargo/wasm_crossword_generator@0.0.2
+- pkg:cargo/wasm_crossword_generator@0.0.3
+- pkg:cargo/wasm_crossword_generator@0.0.4

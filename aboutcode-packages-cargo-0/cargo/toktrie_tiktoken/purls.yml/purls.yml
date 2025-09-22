@@ -1,0 +1,10 @@
+- pkg:cargo/toktrie_tiktoken@0.7.26
+- pkg:cargo/toktrie_tiktoken@0.7.27
+- pkg:cargo/toktrie_tiktoken@0.7.29
+- pkg:cargo/toktrie_tiktoken@0.7.30
+- pkg:cargo/toktrie_tiktoken@1.0.0
+- pkg:cargo/toktrie_tiktoken@1.0.1
+- pkg:cargo/toktrie_tiktoken@1.1.0
+- pkg:cargo/toktrie_tiktoken@1.1.1
+- pkg:cargo/toktrie_tiktoken@1.1.2
+- pkg:cargo/toktrie_tiktoken@1.2.0

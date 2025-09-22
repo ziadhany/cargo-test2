@@ -1,0 +1,15 @@
+- pkg:cargo/signature_derive@0.2.0
+- pkg:cargo/signature_derive@0.2.1
+- pkg:cargo/signature_derive@0.3.0
+- pkg:cargo/signature_derive@1.0.0-pre.0
+- pkg:cargo/signature_derive@1.0.0-pre.1
+- pkg:cargo/signature_derive@1.0.0-pre.2
+- pkg:cargo/signature_derive@1.0.0-pre.3
+- pkg:cargo/signature_derive@1.0.0-pre.4
+- pkg:cargo/signature_derive@1.0.0-pre.5
+- pkg:cargo/signature_derive@1.0.0-pre.6
+- pkg:cargo/signature_derive@1.0.0-pre.7
+- pkg:cargo/signature_derive@2.0.0-pre.0
+- pkg:cargo/signature_derive@2.0.0
+- pkg:cargo/signature_derive@2.0.1
+- pkg:cargo/signature_derive@2.1.0
