@@ -1,0 +1,5 @@
+- pkg:cargo/visibility@0.0.0
+- pkg:cargo/visibility@0.0.1
+- pkg:cargo/visibility@0.1.0-rc1
+- pkg:cargo/visibility@0.1.0
+- pkg:cargo/visibility@0.1.1

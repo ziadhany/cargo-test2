@@ -1,0 +1,14 @@
+- pkg:cargo/swh-graph@5.0.0
+- pkg:cargo/swh-graph@5.1.0
+- pkg:cargo/swh-graph@5.1.1
+- pkg:cargo/swh-graph@6.0.0
+- pkg:cargo/swh-graph@6.1.0
+- pkg:cargo/swh-graph@6.2.0
+- pkg:cargo/swh-graph@6.3.0
+- pkg:cargo/swh-graph@6.3.1
+- pkg:cargo/swh-graph@6.7.0
+- pkg:cargo/swh-graph@6.7.4
+- pkg:cargo/swh-graph@6.7.5
+- pkg:cargo/swh-graph@7.0.0
+- pkg:cargo/swh-graph@8.0.3
+- pkg:cargo/swh-graph@8.0.4

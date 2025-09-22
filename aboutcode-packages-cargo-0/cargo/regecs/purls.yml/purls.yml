@@ -1,0 +1,4 @@
+- pkg:cargo/regecs@0.1.0
+- pkg:cargo/regecs@1.0.0
+- pkg:cargo/regecs@2.0.0-alpha-1
+- pkg:cargo/regecs@2.0.0-rc.2.0.0

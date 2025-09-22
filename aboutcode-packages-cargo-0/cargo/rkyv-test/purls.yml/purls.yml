@@ -1,0 +1,5 @@
+- pkg:cargo/rkyv-test@0.7.38
+- pkg:cargo/rkyv-test@0.7.39
+- pkg:cargo/rkyv-test@0.7.38-test.1
+- pkg:cargo/rkyv-test@0.7.39-test.1
+- pkg:cargo/rkyv-test@0.7.38-test.2

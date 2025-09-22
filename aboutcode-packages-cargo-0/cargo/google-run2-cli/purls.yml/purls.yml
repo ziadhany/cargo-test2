@@ -1,0 +1,3 @@
+- pkg:cargo/google-run2-cli@3.0.0%2B20220225
+- pkg:cargo/google-run2-cli@5.0.4%2B20240225
+- pkg:cargo/google-run2-cli@6.0.0%2B20240621

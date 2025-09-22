@@ -1,0 +1,5 @@
+- pkg:cargo/coredb-pg@15.2.0-coredb-pg.1
+- pkg:cargo/coredb-pg@15.2.0-coredb-pg.2
+- pkg:cargo/coredb-pg@15.2.0-coredb-pg.3
+- pkg:cargo/coredb-pg@15.2.0-coredb-pg.4
+- pkg:cargo/coredb-pg@15.2.0-coredb-pg.5

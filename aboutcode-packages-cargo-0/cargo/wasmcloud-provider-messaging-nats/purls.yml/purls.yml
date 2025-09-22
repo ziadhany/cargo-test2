@@ -1,0 +1,4 @@
+- pkg:cargo/wasmcloud-provider-messaging-nats@0.24.0
+- pkg:cargo/wasmcloud-provider-messaging-nats@0.25.0
+- pkg:cargo/wasmcloud-provider-messaging-nats@0.26.0
+- pkg:cargo/wasmcloud-provider-messaging-nats@0.27.0
