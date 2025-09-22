@@ -1,0 +1,16 @@
+- pkg:cargo/concurrent-queue@0.0.1
+- pkg:cargo/concurrent-queue@1.0.0
+- pkg:cargo/concurrent-queue@1.1.0
+- pkg:cargo/concurrent-queue@1.1.1
+- pkg:cargo/concurrent-queue@1.1.2
+- pkg:cargo/concurrent-queue@1.2.0
+- pkg:cargo/concurrent-queue@1.2.1
+- pkg:cargo/concurrent-queue@1.2.2
+- pkg:cargo/concurrent-queue@1.2.3
+- pkg:cargo/concurrent-queue@1.2.4
+- pkg:cargo/concurrent-queue@2.0.0
+- pkg:cargo/concurrent-queue@2.1.0
+- pkg:cargo/concurrent-queue@2.2.0
+- pkg:cargo/concurrent-queue@2.3.0
+- pkg:cargo/concurrent-queue@2.4.0
+- pkg:cargo/concurrent-queue@2.5.0

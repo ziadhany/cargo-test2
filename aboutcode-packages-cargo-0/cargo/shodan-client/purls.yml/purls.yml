@@ -1,0 +1,4 @@
+- pkg:cargo/shodan-client@0.0.1
+- pkg:cargo/shodan-client@0.0.2
+- pkg:cargo/shodan-client@0.1.0
+- pkg:cargo/shodan-client@0.1.1

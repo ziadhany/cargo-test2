@@ -1,0 +1,4 @@
+- pkg:cargo/warc_parser@0.0.1
+- pkg:cargo/warc_parser@1.0.0
+- pkg:cargo/warc_parser@1.0.1
+- pkg:cargo/warc_parser@2.0.0

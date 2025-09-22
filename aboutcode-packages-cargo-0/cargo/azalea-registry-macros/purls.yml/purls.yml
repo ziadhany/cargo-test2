@@ -1,0 +1,15 @@
+- pkg:cargo/azalea-registry-macros@0.1.0
+- pkg:cargo/azalea-registry-macros@0.2.0
+- pkg:cargo/azalea-registry-macros@0.3.0
+- pkg:cargo/azalea-registry-macros@0.4.0
+- pkg:cargo/azalea-registry-macros@0.5.0
+- pkg:cargo/azalea-registry-macros@0.6.0
+- pkg:cargo/azalea-registry-macros@0.7.0
+- pkg:cargo/azalea-registry-macros@0.8.0
+- pkg:cargo/azalea-registry-macros@0.9.0
+- pkg:cargo/azalea-registry-macros@0.9.1
+- pkg:cargo/azalea-registry-macros@0.10.0
+- pkg:cargo/azalea-registry-macros@0.10.3%2Bmc1.21.1
+- pkg:cargo/azalea-registry-macros@0.11.0%2Bmc1.21.4
+- pkg:cargo/azalea-registry-macros@0.12.0%2Bmc1.21.5
+- pkg:cargo/azalea-registry-macros@0.13.0%2Bmc1.21.5

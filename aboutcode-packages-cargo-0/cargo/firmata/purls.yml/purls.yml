@@ -1,0 +1,3 @@
+- pkg:cargo/firmata@0.0.1
+- pkg:cargo/firmata@0.1.0
+- pkg:cargo/firmata@0.2.0
