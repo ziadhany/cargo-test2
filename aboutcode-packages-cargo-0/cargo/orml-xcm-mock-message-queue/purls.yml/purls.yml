@@ -1,0 +1,12 @@
+- pkg:cargo/orml-xcm-mock-message-queue@0.7.0
+- pkg:cargo/orml-xcm-mock-message-queue@0.8.0
+- pkg:cargo/orml-xcm-mock-message-queue@0.9.0
+- pkg:cargo/orml-xcm-mock-message-queue@0.9.1
+- pkg:cargo/orml-xcm-mock-message-queue@0.10.0
+- pkg:cargo/orml-xcm-mock-message-queue@0.12.0
+- pkg:cargo/orml-xcm-mock-message-queue@0.13.0
+- pkg:cargo/orml-xcm-mock-message-queue@1.0.0
+- pkg:cargo/orml-xcm-mock-message-queue@1.1.0
+- pkg:cargo/orml-xcm-mock-message-queue@1.2.1
+- pkg:cargo/orml-xcm-mock-message-queue@1.3.0
+- pkg:cargo/orml-xcm-mock-message-queue@1.4.0

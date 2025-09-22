@@ -1,0 +1,13 @@
+- pkg:cargo/madsim-rdkafka@0.2.8-alpha
+- pkg:cargo/madsim-rdkafka@0.2.13-alpha
+- pkg:cargo/madsim-rdkafka@0.2.14-alpha
+- pkg:cargo/madsim-rdkafka@0.3.0%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.3.1%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.3.2%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.3.3%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.3.4%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.4.0%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.4.1%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.4.2%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.4.3%2B0.34.0
+- pkg:cargo/madsim-rdkafka@0.4.4%2B0.34.0

@@ -1,0 +1,4 @@
+- pkg:cargo/google-cloud-rust@0.10.0
+- pkg:cargo/google-cloud-rust@0.13.0
+- pkg:cargo/google-cloud-rust@0.14.0
+- pkg:cargo/google-cloud-rust@0.15.0

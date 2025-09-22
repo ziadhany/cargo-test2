@@ -1,0 +1,4 @@
+- pkg:cargo/sra-wasm@0.0.1
+- pkg:cargo/sra-wasm@0.0.2
+- pkg:cargo/sra-wasm@0.0.3
+- pkg:cargo/sra-wasm@0.1.0

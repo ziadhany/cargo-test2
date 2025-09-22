@@ -1,0 +1,10 @@
+- pkg:cargo/safecoin-client@1.6.16
+- pkg:cargo/safecoin-client@1.6.18
+- pkg:cargo/safecoin-client@1.6.19
+- pkg:cargo/safecoin-client@1.7.17
+- pkg:cargo/safecoin-client@1.8.12
+- pkg:cargo/safecoin-client@1.9.29
+- pkg:cargo/safecoin-client@1.10.32
+- pkg:cargo/safecoin-client@1.10.34
+- pkg:cargo/safecoin-client@1.14.3
+- pkg:cargo/safecoin-client@1.14.17

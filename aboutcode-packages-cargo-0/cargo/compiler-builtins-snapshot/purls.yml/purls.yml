@@ -1,0 +1,5 @@
+- pkg:cargo/compiler-builtins-snapshot@0.0.20161003%2B954e3b70959ba8c6df6fc564a5f758f518b44286
+- pkg:cargo/compiler-builtins-snapshot@0.0.20161004%2B954e3b70959ba8c6df6fc564a5f758f518b44286
+- pkg:cargo/compiler-builtins-snapshot@0.0.20161008%2Bc56faf22abb39724008148d58f12bcd43b6d236b
+- pkg:cargo/compiler-builtins-snapshot@0.1.20170126%2B764557f0b669bb0e28817c5ae70c9d718685e35a
+- pkg:cargo/compiler-builtins-snapshot@0.1.20170127%2B764557f0b669bb0e28817c5ae70c9d718685e35a
