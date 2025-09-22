@@ -1,0 +1,5 @@
+- pkg:cargo/bmp280-ehal@0.0.1
+- pkg:cargo/bmp280-ehal@0.0.2
+- pkg:cargo/bmp280-ehal@0.0.3
+- pkg:cargo/bmp280-ehal@0.0.5
+- pkg:cargo/bmp280-ehal@0.0.6

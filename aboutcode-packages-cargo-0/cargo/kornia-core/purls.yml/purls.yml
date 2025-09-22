@@ -1,0 +1,4 @@
+- pkg:cargo/kornia-core@0.1.6%2Bdev
+- pkg:cargo/kornia-core@0.1.6-rc.4
+- pkg:cargo/kornia-core@0.1.6-rc.5
+- pkg:cargo/kornia-core@0.1.7

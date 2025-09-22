@@ -1,0 +1,13 @@
+- pkg:cargo/google-servicecontrol2@2.0.0%2B20210326
+- pkg:cargo/google-servicecontrol2@2.0.3%2B20210326
+- pkg:cargo/google-servicecontrol2@2.0.4%2B20210326
+- pkg:cargo/google-servicecontrol2@2.0.8%2B20210326
+- pkg:cargo/google-servicecontrol2@3.0.0%2B20220227
+- pkg:cargo/google-servicecontrol2@3.1.0%2B20220227
+- pkg:cargo/google-servicecontrol2@4.0.1%2B20220227
+- pkg:cargo/google-servicecontrol2@5.0.2-beta-1%2B20230106
+- pkg:cargo/google-servicecontrol2@5.0.2%2B20230106
+- pkg:cargo/google-servicecontrol2@5.0.3%2B20230106
+- pkg:cargo/google-servicecontrol2@5.0.4%2B20240223
+- pkg:cargo/google-servicecontrol2@5.0.5%2B20240607
+- pkg:cargo/google-servicecontrol2@6.0.0%2B20240607

@@ -1,0 +1,7 @@
+- pkg:cargo/ceres-solver-src@0.1.0%2Bceres2.1.0-eigen3.4.0
+- pkg:cargo/ceres-solver-src@0.1.1-beta.0%2Bceres2.1.0-eigen3.4.0
+- pkg:cargo/ceres-solver-src@0.1.1%2Bceres2.1.0-eigen3.4.0
+- pkg:cargo/ceres-solver-src@0.2.0-beta.0%2Bceres2.1.0-eigen3.4.0-glog0.6.0
+- pkg:cargo/ceres-solver-src@0.2.0%2Bceres2.1.0-eigen3.4.0-glog0.6.0
+- pkg:cargo/ceres-solver-src@0.3.0%2Bceres2.2.0-eigen3.4.0-glog0.7.0
+- pkg:cargo/ceres-solver-src@0.4.0%2Bceres2.2.0-eigen3.4.0-glog0.7.1

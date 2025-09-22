@@ -1,0 +1,5 @@
+- pkg:cargo/ros2_message@0.0.1
+- pkg:cargo/ros2_message@0.0.2
+- pkg:cargo/ros2_message@0.0.3
+- pkg:cargo/ros2_message@0.0.4
+- pkg:cargo/ros2_message@0.0.5
