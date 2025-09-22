@@ -1,0 +1,13 @@
+- pkg:cargo/madsim-tonic-build@0.2.0-alpha.1
+- pkg:cargo/madsim-tonic-build@0.2.0-alpha.5
+- pkg:cargo/madsim-tonic-build@0.2.0-alpha.6
+- pkg:cargo/madsim-tonic-build@0.2.0-alpha.7
+- pkg:cargo/madsim-tonic-build@0.2.0
+- pkg:cargo/madsim-tonic-build@0.2.11
+- pkg:cargo/madsim-tonic-build@0.3.0%2B0.9.2
+- pkg:cargo/madsim-tonic-build@0.3.1%2B0.9.2
+- pkg:cargo/madsim-tonic-build@0.4.0%2B0.10.0
+- pkg:cargo/madsim-tonic-build@0.4.1%2B0.10.0
+- pkg:cargo/madsim-tonic-build@0.4.2%2B0.10.0
+- pkg:cargo/madsim-tonic-build@0.4.3%2B0.10.0
+- pkg:cargo/madsim-tonic-build@0.5.0%2B0.12.0

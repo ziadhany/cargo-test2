@@ -1,0 +1,4 @@
+- pkg:cargo/solana_libra_ir_to_bytecode@0.0.0-sol15
+- pkg:cargo/solana_libra_ir_to_bytecode@0.0.0
+- pkg:cargo/solana_libra_ir_to_bytecode@0.0.1-sol4
+- pkg:cargo/solana_libra_ir_to_bytecode@0.0.1-sol5

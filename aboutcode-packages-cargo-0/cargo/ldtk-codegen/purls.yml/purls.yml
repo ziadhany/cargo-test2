@@ -1,0 +1,5 @@
+- pkg:cargo/ldtk-codegen@0.1.0
+- pkg:cargo/ldtk-codegen@0.1.1
+- pkg:cargo/ldtk-codegen@1.0.0
+- pkg:cargo/ldtk-codegen@1.0.1
+- pkg:cargo/ldtk-codegen@1.0.2

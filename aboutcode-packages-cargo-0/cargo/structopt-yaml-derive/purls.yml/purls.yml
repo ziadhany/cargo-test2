@@ -1,0 +1,2 @@
+- pkg:cargo/structopt-yaml-derive@0.4.5
+- pkg:cargo/structopt-yaml-derive@0.4.6

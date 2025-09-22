@@ -1,0 +1,1 @@
+- pkg:cargo/opentelemetry-instrumentation-actix-web@0.22.0

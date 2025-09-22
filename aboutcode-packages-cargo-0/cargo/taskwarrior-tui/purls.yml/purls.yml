@@ -1,0 +1,17 @@
+- pkg:cargo/taskwarrior-tui@0.3.0
+- pkg:cargo/taskwarrior-tui@0.3.1
+- pkg:cargo/taskwarrior-tui@0.4.0
+- pkg:cargo/taskwarrior-tui@0.5.0
+- pkg:cargo/taskwarrior-tui@0.5.1
+- pkg:cargo/taskwarrior-tui@0.5.2
+- pkg:cargo/taskwarrior-tui@0.5.3
+- pkg:cargo/taskwarrior-tui@0.24.2
+- pkg:cargo/taskwarrior-tui@0.25.0
+- pkg:cargo/taskwarrior-tui@0.25.1
+- pkg:cargo/taskwarrior-tui@0.25.2
+- pkg:cargo/taskwarrior-tui@0.25.3
+- pkg:cargo/taskwarrior-tui@0.25.4
+- pkg:cargo/taskwarrior-tui@0.26.0
+- pkg:cargo/taskwarrior-tui@0.26.1
+- pkg:cargo/taskwarrior-tui@0.26.2
+- pkg:cargo/taskwarrior-tui@0.26.3

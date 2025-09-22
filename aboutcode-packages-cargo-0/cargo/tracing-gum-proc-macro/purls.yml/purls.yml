@@ -1,0 +1,11 @@
+- pkg:cargo/tracing-gum-proc-macro@0.0.0
+- pkg:cargo/tracing-gum-proc-macro@0.1.0-dev.1
+- pkg:cargo/tracing-gum-proc-macro@0.1.0-dev.2
+- pkg:cargo/tracing-gum-proc-macro@0.1.0-dev.3
+- pkg:cargo/tracing-gum-proc-macro@0.1.0-dev.6
+- pkg:cargo/tracing-gum-proc-macro@1.0.0
+- pkg:cargo/tracing-gum-proc-macro@2.0.0
+- pkg:cargo/tracing-gum-proc-macro@3.0.0-dev.1
+- pkg:cargo/tracing-gum-proc-macro@3.0.0
+- pkg:cargo/tracing-gum-proc-macro@4.0.0
+- pkg:cargo/tracing-gum-proc-macro@5.0.0

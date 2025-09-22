@@ -1,0 +1,5 @@
+- pkg:cargo/dbus-async-derive@1.0.0
+- pkg:cargo/dbus-async-derive@1.1.0
+- pkg:cargo/dbus-async-derive@2.0.0
+- pkg:cargo/dbus-async-derive@2.0.1
+- pkg:cargo/dbus-async-derive@2.0.2

@@ -1,0 +1,4 @@
+- pkg:cargo/git-del-branches@0.1.0
+- pkg:cargo/git-del-branches@0.2.0
+- pkg:cargo/git-del-branches@0.3.0
+- pkg:cargo/git-del-branches@1.0.0

@@ -1,0 +1,3 @@
+- pkg:cargo/serdebug_derive@1.0.0
+- pkg:cargo/serdebug_derive@1.1.0
+- pkg:cargo/serdebug_derive@1.2.0

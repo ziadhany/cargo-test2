@@ -1,0 +1,6 @@
+- pkg:cargo/cargo-fixture-lib@0.9.0
+- pkg:cargo/cargo-fixture-lib@1.0.0
+- pkg:cargo/cargo-fixture-lib@1.1.0
+- pkg:cargo/cargo-fixture-lib@1.2.0
+- pkg:cargo/cargo-fixture-lib@1.2.1
+- pkg:cargo/cargo-fixture-lib@1.2.2

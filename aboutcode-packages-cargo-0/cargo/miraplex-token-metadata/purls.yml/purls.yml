@@ -1,0 +1,11 @@
+- pkg:cargo/miraplex-token-metadata@1.7.0-alpha
+- pkg:cargo/miraplex-token-metadata@1.7.0-beta
+- pkg:cargo/miraplex-token-metadata@1.7.0-rc5
+- pkg:cargo/miraplex-token-metadata@1.7.0
+- pkg:cargo/miraplex-token-metadata@1.7.1
+- pkg:cargo/miraplex-token-metadata@1.10.0
+- pkg:cargo/miraplex-token-metadata@1.11.1
+- pkg:cargo/miraplex-token-metadata@1.7.2
+- pkg:cargo/miraplex-token-metadata@1.7.3
+- pkg:cargo/miraplex-token-metadata@1.7.4
+- pkg:cargo/miraplex-token-metadata@1.7.5

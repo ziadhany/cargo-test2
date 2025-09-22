@@ -1,0 +1,7 @@
+- pkg:cargo/luau-parser-derive@0.1.0
+- pkg:cargo/luau-parser-derive@0.2.0
+- pkg:cargo/luau-parser-derive@0.2.1
+- pkg:cargo/luau-parser-derive@0.2.2
+- pkg:cargo/luau-parser-derive@0.2.21
+- pkg:cargo/luau-parser-derive@0.2.22
+- pkg:cargo/luau-parser-derive@0.2.23

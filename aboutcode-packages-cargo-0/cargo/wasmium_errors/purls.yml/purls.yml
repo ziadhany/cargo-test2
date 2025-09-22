@@ -1,0 +1,3 @@
+- pkg:cargo/wasmium_errors@1.0.1
+- pkg:cargo/wasmium_errors@1.0.2
+- pkg:cargo/wasmium_errors@1.0.3

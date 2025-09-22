@@ -1,0 +1,10 @@
+- pkg:cargo/libbzip3-sys@0.1.0
+- pkg:cargo/libbzip3-sys@0.2.0
+- pkg:cargo/libbzip3-sys@0.2.1
+- pkg:cargo/libbzip3-sys@0.2.2
+- pkg:cargo/libbzip3-sys@0.3.0
+- pkg:cargo/libbzip3-sys@0.3.1%2B1.3.1
+- pkg:cargo/libbzip3-sys@0.3.2%2B1.3.2
+- pkg:cargo/libbzip3-sys@0.3.3%2B1.3.2
+- pkg:cargo/libbzip3-sys@0.4.0%2B1.4.0
+- pkg:cargo/libbzip3-sys@0.5.0%2B1.5.1

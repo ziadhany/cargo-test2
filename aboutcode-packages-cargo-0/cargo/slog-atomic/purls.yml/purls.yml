@@ -1,0 +1,10 @@
+- pkg:cargo/slog-atomic@0.2.0
+- pkg:cargo/slog-atomic@0.3.0
+- pkg:cargo/slog-atomic@0.4.0
+- pkg:cargo/slog-atomic@0.4.1
+- pkg:cargo/slog-atomic@0.4.3
+- pkg:cargo/slog-atomic@2.0.0-3.0
+- pkg:cargo/slog-atomic@2.0.0-3.1
+- pkg:cargo/slog-atomic@2.0.0
+- pkg:cargo/slog-atomic@3.0.0
+- pkg:cargo/slog-atomic@3.1.0

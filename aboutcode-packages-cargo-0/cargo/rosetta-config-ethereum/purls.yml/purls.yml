@@ -1,0 +1,4 @@
+- pkg:cargo/rosetta-config-ethereum@0.1.0
+- pkg:cargo/rosetta-config-ethereum@0.2.5
+- pkg:cargo/rosetta-config-ethereum@0.3.0
+- pkg:cargo/rosetta-config-ethereum@0.4.0

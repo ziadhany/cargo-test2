@@ -1,0 +1,9 @@
+- pkg:cargo/zksync_core_leftovers@0.1.0
+- pkg:cargo/zksync_core_leftovers@26.1.0-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@26.2.1-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@26.7.0-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@27.0.0-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@27.5.0-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@27.5.1-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@28.0.0-non-semver-compat
+- pkg:cargo/zksync_core_leftovers@28.1.0-non-semver-compat

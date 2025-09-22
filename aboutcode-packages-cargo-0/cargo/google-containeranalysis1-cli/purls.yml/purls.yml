@@ -1,0 +1,4 @@
+- pkg:cargo/google-containeranalysis1-cli@3.0.0%2B20220225
+- pkg:cargo/google-containeranalysis1-cli@3.1.0%2B20220225
+- pkg:cargo/google-containeranalysis1-cli@5.0.4%2B20240223
+- pkg:cargo/google-containeranalysis1-cli@6.0.0%2B20240625
