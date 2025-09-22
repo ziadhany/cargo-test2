@@ -1,0 +1,9 @@
+- pkg:cargo/winfsp-sys@0.0.0
+- pkg:cargo/winfsp-sys@0.1.0
+- pkg:cargo/winfsp-sys@0.1.1%2Bwinfsp-1.11
+- pkg:cargo/winfsp-sys@0.1.2%2Bwinfsp-1.11
+- pkg:cargo/winfsp-sys@0.1.3%2Bwinfsp-1.11
+- pkg:cargo/winfsp-sys@0.1.4%2Bwinfsp-1.11
+- pkg:cargo/winfsp-sys@0.2.0%2Bwinfsp-2.0
+- pkg:cargo/winfsp-sys@0.2.1%2Bwinfsp-2.0
+- pkg:cargo/winfsp-sys@0.2.2%2Bwinfsp-2.0

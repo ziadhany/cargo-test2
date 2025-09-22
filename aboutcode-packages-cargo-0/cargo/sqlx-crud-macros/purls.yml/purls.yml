@@ -1,0 +1,4 @@
+- pkg:cargo/sqlx-crud-macros@0.2.0
+- pkg:cargo/sqlx-crud-macros@0.3.0
+- pkg:cargo/sqlx-crud-macros@0.3.1
+- pkg:cargo/sqlx-crud-macros@0.4.0

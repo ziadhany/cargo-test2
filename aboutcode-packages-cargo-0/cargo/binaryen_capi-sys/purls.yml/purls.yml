@@ -1,0 +1,3 @@
+- pkg:cargo/binaryen_capi-sys@116.0.0
+- pkg:cargo/binaryen_capi-sys@0.116.1
+- pkg:cargo/binaryen_capi-sys@0.117.0

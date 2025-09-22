@@ -1,0 +1,4 @@
+- pkg:cargo/serializer@0.0.0
+- pkg:cargo/serializer@2.0.1
+- pkg:cargo/serializer@2.0.2
+- pkg:cargo/serializer@2.1.2

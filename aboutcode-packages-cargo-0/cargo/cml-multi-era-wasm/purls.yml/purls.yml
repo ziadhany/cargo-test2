@@ -1,0 +1,11 @@
+- pkg:cargo/cml-multi-era-wasm@0.1.0
+- pkg:cargo/cml-multi-era-wasm@4.0.2
+- pkg:cargo/cml-multi-era-wasm@5.0.0
+- pkg:cargo/cml-multi-era-wasm@5.1.0
+- pkg:cargo/cml-multi-era-wasm@5.2.0
+- pkg:cargo/cml-multi-era-wasm@5.3.0
+- pkg:cargo/cml-multi-era-wasm@5.3.1
+- pkg:cargo/cml-multi-era-wasm@6.0.0
+- pkg:cargo/cml-multi-era-wasm@6.0.1
+- pkg:cargo/cml-multi-era-wasm@6.1.0
+- pkg:cargo/cml-multi-era-wasm@6.2.0

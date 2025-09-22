@@ -1,0 +1,9 @@
+- pkg:cargo/pulumi_gestalt_build@0.0.0-test4
+- pkg:cargo/pulumi_gestalt_build@0.0.0-test5
+- pkg:cargo/pulumi_gestalt_build@0.0.0-test8
+- pkg:cargo/pulumi_gestalt_build@0.0.0-test31
+- pkg:cargo/pulumi_gestalt_build@0.0.1
+- pkg:cargo/pulumi_gestalt_build@0.0.2
+- pkg:cargo/pulumi_gestalt_build@0.0.1-test32
+- pkg:cargo/pulumi_gestalt_build@0.0.1-test33
+- pkg:cargo/pulumi_gestalt_build@0.0.3

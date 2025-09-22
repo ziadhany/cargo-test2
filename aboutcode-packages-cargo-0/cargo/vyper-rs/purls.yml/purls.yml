@@ -1,0 +1,4 @@
+- pkg:cargo/vyper-rs@0.2.0
+- pkg:cargo/vyper-rs@1.0.0
+- pkg:cargo/vyper-rs@2.0.0
+- pkg:cargo/vyper-rs@2.0.1

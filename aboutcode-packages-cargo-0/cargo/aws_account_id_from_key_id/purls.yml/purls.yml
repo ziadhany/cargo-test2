@@ -1,0 +1,2 @@
+- pkg:cargo/aws_account_id_from_key_id@0.8.1
+- pkg:cargo/aws_account_id_from_key_id@0.8.2

@@ -1,0 +1,5 @@
+- pkg:cargo/cerk_port_mqtt_mosquitto@0.2.7
+- pkg:cargo/cerk_port_mqtt_mosquitto@0.2.8
+- pkg:cargo/cerk_port_mqtt_mosquitto@0.2.9
+- pkg:cargo/cerk_port_mqtt_mosquitto@0.2.10
+- pkg:cargo/cerk_port_mqtt_mosquitto@0.2.11

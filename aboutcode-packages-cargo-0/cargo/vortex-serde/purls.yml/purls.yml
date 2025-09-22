@@ -1,0 +1,13 @@
+- pkg:cargo/vortex-serde@0.5.0
+- pkg:cargo/vortex-serde@0.7.0
+- pkg:cargo/vortex-serde@0.8.0
+- pkg:cargo/vortex-serde@0.9.0
+- pkg:cargo/vortex-serde@0.10.0
+- pkg:cargo/vortex-serde@0.10.1
+- pkg:cargo/vortex-serde@0.11.0
+- pkg:cargo/vortex-serde@0.12.0
+- pkg:cargo/vortex-serde@0.13.0
+- pkg:cargo/vortex-serde@0.13.1
+- pkg:cargo/vortex-serde@0.14.0
+- pkg:cargo/vortex-serde@0.15.2
+- pkg:cargo/vortex-serde@0.16.0

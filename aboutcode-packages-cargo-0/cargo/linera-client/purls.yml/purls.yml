@@ -1,0 +1,10 @@
+- pkg:cargo/linera-client@0.0.1
+- pkg:cargo/linera-client@0.12.0
+- pkg:cargo/linera-client@0.12.1
+- pkg:cargo/linera-client@0.13.0
+- pkg:cargo/linera-client@0.13.1
+- pkg:cargo/linera-client@0.14.0
+- pkg:cargo/linera-client@0.14.1
+- pkg:cargo/linera-client@0.14.2
+- pkg:cargo/linera-client@0.15.0
+- pkg:cargo/linera-client@0.15.1

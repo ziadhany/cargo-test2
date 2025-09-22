@@ -1,0 +1,4 @@
+- pkg:cargo/terminal_game_of_life@0.1.0-alpha
+- pkg:cargo/terminal_game_of_life@1.0.0-pre
+- pkg:cargo/terminal_game_of_life@1.0.0
+- pkg:cargo/terminal_game_of_life@1.0.1
