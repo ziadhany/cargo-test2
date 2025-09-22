@@ -1,0 +1,3 @@
+- pkg:cargo/stb_image_rust@2.27.0
+- pkg:cargo/stb_image_rust@2.27.1
+- pkg:cargo/stb_image_rust@2.27.2

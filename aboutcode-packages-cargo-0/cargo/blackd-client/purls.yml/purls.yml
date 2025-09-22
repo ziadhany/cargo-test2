@@ -1,0 +1,5 @@
+- pkg:cargo/blackd-client@0.0.3
+- pkg:cargo/blackd-client@0.0.4
+- pkg:cargo/blackd-client@0.0.5
+- pkg:cargo/blackd-client@0.0.6
+- pkg:cargo/blackd-client@0.1.0

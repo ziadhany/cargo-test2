@@ -1,0 +1,4 @@
+- pkg:cargo/slice-ring-buffer@0.3.1
+- pkg:cargo/slice-ring-buffer@0.3.2
+- pkg:cargo/slice-ring-buffer@0.3.3
+- pkg:cargo/slice-ring-buffer@0.3.4
