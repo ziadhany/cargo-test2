@@ -1,0 +1,4 @@
+- pkg:cargo/tiny-artnet-bytes-no-atomic@1.2.1
+- pkg:cargo/tiny-artnet-bytes-no-atomic@1.0.1
+- pkg:cargo/tiny-artnet-bytes-no-atomic@1.0.2
+- pkg:cargo/tiny-artnet-bytes-no-atomic@1.2.2

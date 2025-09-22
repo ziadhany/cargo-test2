@@ -1,0 +1,3 @@
+- pkg:cargo/windows-sys-management@0.22.5
+- pkg:cargo/windows-sys-management@0.22.6
+- pkg:cargo/windows-sys-management@0.23.0

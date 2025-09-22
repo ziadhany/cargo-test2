@@ -1,0 +1,3 @@
+- pkg:cargo/bitcode_lightyear_patch@0.4.0
+- pkg:cargo/bitcode_lightyear_patch@0.4.1
+- pkg:cargo/bitcode_lightyear_patch@0.5.1

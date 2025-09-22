@@ -1,0 +1,8 @@
+- pkg:cargo/tor-metrics-datamodel@0.1.4-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.5-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.6-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.8-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.13-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.14-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.16-rc
+- pkg:cargo/tor-metrics-datamodel@0.1.18-rc

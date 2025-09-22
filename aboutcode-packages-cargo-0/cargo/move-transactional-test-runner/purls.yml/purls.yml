@@ -1,0 +1,8 @@
+- pkg:cargo/move-transactional-test-runner@0.1.4
+- pkg:cargo/move-transactional-test-runner@0.1.5
+- pkg:cargo/move-transactional-test-runner@0.1.6
+- pkg:cargo/move-transactional-test-runner@0.2.0
+- pkg:cargo/move-transactional-test-runner@0.2.1
+- pkg:cargo/move-transactional-test-runner@0.3.0
+- pkg:cargo/move-transactional-test-runner@0.3.1
+- pkg:cargo/move-transactional-test-runner@0.3.2

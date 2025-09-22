@@ -1,0 +1,4 @@
+- pkg:cargo/vesper-macros@0.0.0
+- pkg:cargo/vesper-macros@0.11.0
+- pkg:cargo/vesper-macros@0.12.0
+- pkg:cargo/vesper-macros@0.13.0

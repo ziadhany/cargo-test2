@@ -1,0 +1,5 @@
+- pkg:cargo/radix-substate-store-queries@1.2.0-dev
+- pkg:cargo/radix-substate-store-queries@1.2.0
+- pkg:cargo/radix-substate-store-queries@1.3.0-rc.2
+- pkg:cargo/radix-substate-store-queries@1.3.0-rc.3
+- pkg:cargo/radix-substate-store-queries@1.3.0

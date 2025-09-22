@@ -1,0 +1,4 @@
+- pkg:cargo/simulink-binder@0.1.0
+- pkg:cargo/simulink-binder@0.1.1
+- pkg:cargo/simulink-binder@1.0.0
+- pkg:cargo/simulink-binder@2.0.0

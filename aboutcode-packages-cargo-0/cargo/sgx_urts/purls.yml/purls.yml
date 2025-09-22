@@ -1,0 +1,11 @@
+- pkg:cargo/sgx_urts@0.9.8
+- pkg:cargo/sgx_urts@1.0.0
+- pkg:cargo/sgx_urts@1.0.1
+- pkg:cargo/sgx_urts@1.0.4
+- pkg:cargo/sgx_urts@1.0.5
+- pkg:cargo/sgx_urts@1.0.6
+- pkg:cargo/sgx_urts@1.0.7
+- pkg:cargo/sgx_urts@1.0.8
+- pkg:cargo/sgx_urts@1.0.9
+- pkg:cargo/sgx_urts@1.1.0
+- pkg:cargo/sgx_urts@1.1.1

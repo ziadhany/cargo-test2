@@ -1,0 +1,13 @@
+- pkg:cargo/audionimbus-sys@4.6.0
+- pkg:cargo/audionimbus-sys@4.6.1
+- pkg:cargo/audionimbus-sys@4.6.2-fmod
+- pkg:cargo/audionimbus-sys@4.6.2-fmod.1
+- pkg:cargo/audionimbus-sys@4.6.2-fmod.2
+- pkg:cargo/audionimbus-sys@4.6.2-fmod.3
+- pkg:cargo/audionimbus-sys@4.6.2-fmod-wwise
+- pkg:cargo/audionimbus-sys@4.6.2-fmodwwise
+- pkg:cargo/audionimbus-sys@4.6.2-fmod-wwise.1
+- pkg:cargo/audionimbus-sys@4.6.2-fmodwwise.2
+- pkg:cargo/audionimbus-sys@4.7.0-rc.1
+- pkg:cargo/audionimbus-sys@4.7.0
+- pkg:cargo/audionimbus-sys@4.7.1-rc.1

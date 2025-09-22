@@ -1,0 +1,4 @@
+- pkg:cargo/async-opcua-crypto@0.14.0
+- pkg:cargo/async-opcua-crypto@0.15.0
+- pkg:cargo/async-opcua-crypto@0.15.1
+- pkg:cargo/async-opcua-crypto@0.16.0

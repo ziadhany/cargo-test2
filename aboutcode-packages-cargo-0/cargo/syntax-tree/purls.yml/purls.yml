@@ -1,0 +1,5 @@
+- pkg:cargo/syntax-tree@0.1.0
+- pkg:cargo/syntax-tree@0.2.0
+- pkg:cargo/syntax-tree@0.3.0
+- pkg:cargo/syntax-tree@0.3.1
+- pkg:cargo/syntax-tree@0.3.2

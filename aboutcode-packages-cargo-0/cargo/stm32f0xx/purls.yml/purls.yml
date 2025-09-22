@@ -1,0 +1,3 @@
+- pkg:cargo/stm32f0xx@0.1.0
+- pkg:cargo/stm32f0xx@0.2.1
+- pkg:cargo/stm32f0xx@0.3.0

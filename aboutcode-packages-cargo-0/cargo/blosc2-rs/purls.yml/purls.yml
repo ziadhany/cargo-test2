@@ -1,0 +1,10 @@
+- pkg:cargo/blosc2-rs@0.2.0%2B2.13.2
+- pkg:cargo/blosc2-rs@0.2.1%2B2.13.2
+- pkg:cargo/blosc2-rs@0.2.2%2B2.13.2
+- pkg:cargo/blosc2-rs@0.2.3%2B2.14.3
+- pkg:cargo/blosc2-rs@0.2.4%2B2.14.3
+- pkg:cargo/blosc2-rs@0.2.5%2B2.14.3
+- pkg:cargo/blosc2-rs@0.2.6%2B2.14.3
+- pkg:cargo/blosc2-rs@0.3.0%2B2.15.1
+- pkg:cargo/blosc2-rs@0.3.1%2B2.15.1
+- pkg:cargo/blosc2-rs@0.4.0%2B2.15.2

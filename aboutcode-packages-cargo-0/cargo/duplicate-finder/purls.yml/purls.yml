@@ -1,0 +1,5 @@
+- pkg:cargo/duplicate-finder@0.0.1
+- pkg:cargo/duplicate-finder@0.0.2
+- pkg:cargo/duplicate-finder@0.0.21
+- pkg:cargo/duplicate-finder@0.0.22
+- pkg:cargo/duplicate-finder@0.0.23

@@ -1,0 +1,4 @@
+- pkg:cargo/sha256-rs@0.1.0
+- pkg:cargo/sha256-rs@1.0.0
+- pkg:cargo/sha256-rs@1.0.1
+- pkg:cargo/sha256-rs@1.0.2

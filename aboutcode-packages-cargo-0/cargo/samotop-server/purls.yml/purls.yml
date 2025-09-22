@@ -1,0 +1,9 @@
+- pkg:cargo/samotop-server@1.0.0
+- pkg:cargo/samotop-server@1.0.1-snapshot
+- pkg:cargo/samotop-server@1.0.1-preview.3
+- pkg:cargo/samotop-server@1.0.1
+- pkg:cargo/samotop-server@1.1.0
+- pkg:cargo/samotop-server@1.2.0-samotop-dev
+- pkg:cargo/samotop-server@1.2.0
+- pkg:cargo/samotop-server@1.2.2-dev
+- pkg:cargo/samotop-server@1.2.2

@@ -1,0 +1,14 @@
+- pkg:cargo/xrpl_binary_codec@0.2.0
+- pkg:cargo/xrpl_binary_codec@0.2.1
+- pkg:cargo/xrpl_binary_codec@0.3.0
+- pkg:cargo/xrpl_binary_codec@0.9.0
+- pkg:cargo/xrpl_binary_codec@0.11.0
+- pkg:cargo/xrpl_binary_codec@0.12.0
+- pkg:cargo/xrpl_binary_codec@0.13.0
+- pkg:cargo/xrpl_binary_codec@0.14.0
+- pkg:cargo/xrpl_binary_codec@0.15.0
+- pkg:cargo/xrpl_binary_codec@0.16.0
+- pkg:cargo/xrpl_binary_codec@0.16.3
+- pkg:cargo/xrpl_binary_codec@0.16.4
+- pkg:cargo/xrpl_binary_codec@0.16.5
+- pkg:cargo/xrpl_binary_codec@0.16.7
