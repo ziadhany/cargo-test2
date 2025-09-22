@@ -1,0 +1,7 @@
+- pkg:cargo/swc_ecma_compiler@0.1.0
+- pkg:cargo/swc_ecma_compiler@0.1.1
+- pkg:cargo/swc_ecma_compiler@0.1.2
+- pkg:cargo/swc_ecma_compiler@1.0.0
+- pkg:cargo/swc_ecma_compiler@2.0.0
+- pkg:cargo/swc_ecma_compiler@3.0.0
+- pkg:cargo/swc_ecma_compiler@4.0.0

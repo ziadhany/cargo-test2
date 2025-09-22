@@ -1,0 +1,16 @@
+- pkg:cargo/sp-maybe-compressed-blob@4.0.0-dev
+- pkg:cargo/sp-maybe-compressed-blob@4.1.0
+- pkg:cargo/sp-maybe-compressed-blob@5.0.0
+- pkg:cargo/sp-maybe-compressed-blob@5.1.0-dev1
+- pkg:cargo/sp-maybe-compressed-blob@5.1.0-dev.2
+- pkg:cargo/sp-maybe-compressed-blob@5.1.0-dev.3
+- pkg:cargo/sp-maybe-compressed-blob@5.1.0-dev.4
+- pkg:cargo/sp-maybe-compressed-blob@5.1.0-dev.5
+- pkg:cargo/sp-maybe-compressed-blob@5.1.0-dev.6
+- pkg:cargo/sp-maybe-compressed-blob@6.0.0
+- pkg:cargo/sp-maybe-compressed-blob@7.0.0
+- pkg:cargo/sp-maybe-compressed-blob@8.0.0-dev.1
+- pkg:cargo/sp-maybe-compressed-blob@8.0.0
+- pkg:cargo/sp-maybe-compressed-blob@9.0.0
+- pkg:cargo/sp-maybe-compressed-blob@10.0.0
+- pkg:cargo/sp-maybe-compressed-blob@11.0.0

@@ -1,0 +1,5 @@
+- pkg:cargo/sol_rpc_types@0.1.0
+- pkg:cargo/sol_rpc_types@0.2.0
+- pkg:cargo/sol_rpc_types@1.0.0
+- pkg:cargo/sol_rpc_types@2.0.0
+- pkg:cargo/sol_rpc_types@3.0.0

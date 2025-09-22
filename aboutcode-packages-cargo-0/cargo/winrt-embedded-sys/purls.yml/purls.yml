@@ -1,0 +1,4 @@
+- pkg:cargo/winrt-embedded-sys@0.0.0
+- pkg:cargo/winrt-embedded-sys@0.0.1
+- pkg:cargo/winrt-embedded-sys@0.0.2
+- pkg:cargo/winrt-embedded-sys@0.23.0

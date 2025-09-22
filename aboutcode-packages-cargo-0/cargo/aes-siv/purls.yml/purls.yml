@@ -1,0 +1,15 @@
+- pkg:cargo/aes-siv@0.1.0
+- pkg:cargo/aes-siv@0.1.1
+- pkg:cargo/aes-siv@0.1.2
+- pkg:cargo/aes-siv@0.2.0
+- pkg:cargo/aes-siv@0.3.0
+- pkg:cargo/aes-siv@0.4.0
+- pkg:cargo/aes-siv@0.5.0
+- pkg:cargo/aes-siv@0.6.0
+- pkg:cargo/aes-siv@0.6.1
+- pkg:cargo/aes-siv@0.6.2
+- pkg:cargo/aes-siv@0.7.0-pre.1
+- pkg:cargo/aes-siv@0.7.0
+- pkg:cargo/aes-siv@0.8.0-pre.2
+- pkg:cargo/aes-siv@0.8.0-rc.0
+- pkg:cargo/aes-siv@0.8.0-rc.1

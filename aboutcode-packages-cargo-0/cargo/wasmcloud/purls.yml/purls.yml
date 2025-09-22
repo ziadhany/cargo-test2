@@ -1,0 +1,7 @@
+- pkg:cargo/wasmcloud@0.0.1
+- pkg:cargo/wasmcloud@0.16.0
+- pkg:cargo/wasmcloud@0.16.1
+- pkg:cargo/wasmcloud@0.17.0
+- pkg:cargo/wasmcloud@0.18.0
+- pkg:cargo/wasmcloud@0.18.1
+- pkg:cargo/wasmcloud@0.18.2

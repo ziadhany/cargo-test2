@@ -1,0 +1,3 @@
+- pkg:cargo/gandi-live-dns@1.5.0
+- pkg:cargo/gandi-live-dns@1.7.0
+- pkg:cargo/gandi-live-dns@1.8.0

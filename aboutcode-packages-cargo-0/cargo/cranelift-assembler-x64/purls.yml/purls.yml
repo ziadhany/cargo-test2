@@ -1,0 +1,16 @@
+- pkg:cargo/cranelift-assembler-x64@0.117.0
+- pkg:cargo/cranelift-assembler-x64@0.117.1
+- pkg:cargo/cranelift-assembler-x64@0.117.2
+- pkg:cargo/cranelift-assembler-x64@0.118.0
+- pkg:cargo/cranelift-assembler-x64@0.119.0
+- pkg:cargo/cranelift-assembler-x64@0.120.0
+- pkg:cargo/cranelift-assembler-x64@0.121.0
+- pkg:cargo/cranelift-assembler-x64@0.119.1
+- pkg:cargo/cranelift-assembler-x64@0.120.1
+- pkg:cargo/cranelift-assembler-x64@0.121.1
+- pkg:cargo/cranelift-assembler-x64@0.121.2
+- pkg:cargo/cranelift-assembler-x64@0.120.2
+- pkg:cargo/cranelift-assembler-x64@0.122.0
+- pkg:cargo/cranelift-assembler-x64@0.123.0
+- pkg:cargo/cranelift-assembler-x64@0.123.1
+- pkg:cargo/cranelift-assembler-x64@0.123.2

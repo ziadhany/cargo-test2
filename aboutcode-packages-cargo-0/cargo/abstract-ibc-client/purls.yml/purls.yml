@@ -1,0 +1,9 @@
+- pkg:cargo/abstract-ibc-client@0.20.0
+- pkg:cargo/abstract-ibc-client@0.21.0
+- pkg:cargo/abstract-ibc-client@0.22.1
+- pkg:cargo/abstract-ibc-client@0.23.0
+- pkg:cargo/abstract-ibc-client@0.24.1-beta.1
+- pkg:cargo/abstract-ibc-client@0.24.1-beta.2
+- pkg:cargo/abstract-ibc-client@0.24.1
+- pkg:cargo/abstract-ibc-client@0.26.0
+- pkg:cargo/abstract-ibc-client@0.26.1

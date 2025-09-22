@@ -1,0 +1,2 @@
+- pkg:cargo/secur32-sys@0.0.1
+- pkg:cargo/secur32-sys@0.2.0

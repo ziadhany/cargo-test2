@@ -1,0 +1,2 @@
+- pkg:cargo/tokio_sse_codec@0.0.1
+- pkg:cargo/tokio_sse_codec@0.0.2

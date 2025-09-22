@@ -1,0 +1,4 @@
+- pkg:cargo/windows-win32-web@0.22.3
+- pkg:cargo/windows-win32-web@0.22.5
+- pkg:cargo/windows-win32-web@0.22.6
+- pkg:cargo/windows-win32-web@0.23.0

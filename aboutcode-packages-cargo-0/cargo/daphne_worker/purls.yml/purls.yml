@@ -1,0 +1,4 @@
+- pkg:cargo/daphne_worker@0.1.0
+- pkg:cargo/daphne_worker@0.1.1
+- pkg:cargo/daphne_worker@0.1.2
+- pkg:cargo/daphne_worker@0.2.0

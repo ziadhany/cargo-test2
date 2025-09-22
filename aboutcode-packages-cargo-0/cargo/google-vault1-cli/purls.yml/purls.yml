@@ -1,0 +1,14 @@
+- pkg:cargo/google-vault1-cli@1.0.6%2B20170812
+- pkg:cargo/google-vault1-cli@1.0.7%2B20171026
+- pkg:cargo/google-vault1-cli@1.0.8%2B20180827
+- pkg:cargo/google-vault1-cli@1.0.9%2B20190614
+- pkg:cargo/google-vault1-cli@1.0.10%2B20190614
+- pkg:cargo/google-vault1-cli@1.0.12%2B20190614
+- pkg:cargo/google-vault1-cli@1.0.13%2B20200330
+- pkg:cargo/google-vault1-cli@1.0.14%2B20200623
+- pkg:cargo/google-vault1-cli@2.0.0%2B20210316
+- pkg:cargo/google-vault1-cli@2.0.4%2B20210316
+- pkg:cargo/google-vault1-cli@3.0.0%2B20220222
+- pkg:cargo/google-vault1-cli@3.1.0%2B20220222
+- pkg:cargo/google-vault1-cli@5.0.4%2B20240220
+- pkg:cargo/google-vault1-cli@6.0.0%2B20240617

@@ -1,0 +1,6 @@
+- pkg:cargo/llvm-bitstream@0.0.2-rc.2
+- pkg:cargo/llvm-bitstream@0.0.2-rc.3
+- pkg:cargo/llvm-bitstream@0.0.2-rc.4
+- pkg:cargo/llvm-bitstream@0.0.2-rc.5
+- pkg:cargo/llvm-bitstream@0.0.2
+- pkg:cargo/llvm-bitstream@0.0.3

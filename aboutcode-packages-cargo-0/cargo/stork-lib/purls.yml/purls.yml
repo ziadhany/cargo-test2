@@ -1,0 +1,5 @@
+- pkg:cargo/stork-lib@1.4.1
+- pkg:cargo/stork-lib@1.4.2
+- pkg:cargo/stork-lib@1.5.0
+- pkg:cargo/stork-lib@1.6.0
+- pkg:cargo/stork-lib@2.0.0-beta.2

@@ -1,0 +1,6 @@
+- pkg:cargo/sophosfirewall-python@10.1.1
+- pkg:cargo/sophosfirewall-python@11.1.1
+- pkg:cargo/sophosfirewall-python@12.1.1
+- pkg:cargo/sophosfirewall-python@20.1.0
+- pkg:cargo/sophosfirewall-python@20.10.0
+- pkg:cargo/sophosfirewall-python@20.10.10

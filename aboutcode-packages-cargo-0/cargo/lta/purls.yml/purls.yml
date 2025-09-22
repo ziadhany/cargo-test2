@@ -1,0 +1,17 @@
+- pkg:cargo/lta@0.1.0
+- pkg:cargo/lta@0.2.0
+- pkg:cargo/lta@0.2.1
+- pkg:cargo/lta@0.2.2
+- pkg:cargo/lta@0.2.3
+- pkg:cargo/lta@0.3.0-async-preview-1
+- pkg:cargo/lta@0.3.0-async-preview-2
+- pkg:cargo/lta@0.3.0-async-preview-3
+- pkg:cargo/lta@0.3.0-async-preview-4
+- pkg:cargo/lta@0.3.0-async-preview-5
+- pkg:cargo/lta@0.3.0
+- pkg:cargo/lta@0.4.0
+- pkg:cargo/lta@0.5.0-beta
+- pkg:cargo/lta@0.5.0
+- pkg:cargo/lta@0.5.1
+- pkg:cargo/lta@0.6.0-beta
+- pkg:cargo/lta@0.6.0
