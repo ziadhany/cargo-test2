@@ -1,0 +1,5 @@
+- pkg:cargo/rmqtt-message-storage@0.1.1
+- pkg:cargo/rmqtt-message-storage@0.1.2
+- pkg:cargo/rmqtt-message-storage@0.1.3
+- pkg:cargo/rmqtt-message-storage@0.1.4
+- pkg:cargo/rmqtt-message-storage@0.15.0

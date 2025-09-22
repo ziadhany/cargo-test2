@@ -1,0 +1,5 @@
+- pkg:cargo/shadow-rpc-auth@0.6.2
+- pkg:cargo/shadow-rpc-auth@0.6.3
+- pkg:cargo/shadow-rpc-auth@0.7.0
+- pkg:cargo/shadow-rpc-auth@0.7.1
+- pkg:cargo/shadow-rpc-auth@0.7.2

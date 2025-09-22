@@ -1,0 +1,13 @@
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol7
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol8
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol9
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol10
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol11
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol12
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol13
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol14
+- pkg:cargo/solana_libra_failure_ext@0.0.0-sol15
+- pkg:cargo/solana_libra_failure_ext@0.0.0
+- pkg:cargo/solana_libra_failure_ext@0.0.1-sol3
+- pkg:cargo/solana_libra_failure_ext@0.0.1-sol4
+- pkg:cargo/solana_libra_failure_ext@0.0.1-sol5

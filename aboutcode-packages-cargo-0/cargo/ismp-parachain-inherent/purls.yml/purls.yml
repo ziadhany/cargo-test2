@@ -1,0 +1,17 @@
+- pkg:cargo/ismp-parachain-inherent@1.6.0
+- pkg:cargo/ismp-parachain-inherent@1.6.1
+- pkg:cargo/ismp-parachain-inherent@1.6.2
+- pkg:cargo/ismp-parachain-inherent@1.6.3
+- pkg:cargo/ismp-parachain-inherent@1.15.0
+- pkg:cargo/ismp-parachain-inherent@1.15.1
+- pkg:cargo/ismp-parachain-inherent@1.15.2
+- pkg:cargo/ismp-parachain-inherent@1.15.3
+- pkg:cargo/ismp-parachain-inherent@15.0.0
+- pkg:cargo/ismp-parachain-inherent@16.0.0
+- pkg:cargo/ismp-parachain-inherent@15.1.0
+- pkg:cargo/ismp-parachain-inherent@16.1.0
+- pkg:cargo/ismp-parachain-inherent@2412.0.0
+- pkg:cargo/ismp-parachain-inherent@2503.0.0
+- pkg:cargo/ismp-parachain-inherent@2503.1.0
+- pkg:cargo/ismp-parachain-inherent@2506.0.0
+- pkg:cargo/ismp-parachain-inherent@2506.1.0

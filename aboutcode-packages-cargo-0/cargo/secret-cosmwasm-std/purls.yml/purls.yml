@@ -1,0 +1,5 @@
+- pkg:cargo/secret-cosmwasm-std@0.10.0
+- pkg:cargo/secret-cosmwasm-std@0.10.1
+- pkg:cargo/secret-cosmwasm-std@1.0.0
+- pkg:cargo/secret-cosmwasm-std@1.1.10
+- pkg:cargo/secret-cosmwasm-std@1.1.11

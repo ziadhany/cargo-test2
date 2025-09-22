@@ -1,0 +1,4 @@
+- pkg:cargo/snarkvm-debug@0.16.15
+- pkg:cargo/snarkvm-debug@0.16.16
+- pkg:cargo/snarkvm-debug@0.16.17
+- pkg:cargo/snarkvm-debug@0.16.18

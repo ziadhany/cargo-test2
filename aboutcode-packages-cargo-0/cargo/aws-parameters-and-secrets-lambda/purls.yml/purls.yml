@@ -1,0 +1,3 @@
+- pkg:cargo/aws-parameters-and-secrets-lambda@0.1.0-publishtest1
+- pkg:cargo/aws-parameters-and-secrets-lambda@0.1.0
+- pkg:cargo/aws-parameters-and-secrets-lambda@1.0.0

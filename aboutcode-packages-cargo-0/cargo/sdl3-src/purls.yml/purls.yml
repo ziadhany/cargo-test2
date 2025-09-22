@@ -1,0 +1,17 @@
+- pkg:cargo/sdl3-src@0.0.0
+- pkg:cargo/sdl3-src@3.1.3-preview-0
+- pkg:cargo/sdl3-src@3.1.6-preview-0
+- pkg:cargo/sdl3-src@3.1.8-preview-0
+- pkg:cargo/sdl3-src@3.1.10-prerelease-0
+- pkg:cargo/sdl3-src@3.2.0
+- pkg:cargo/sdl3-src@3.2.2
+- pkg:cargo/sdl3-src@3.2.4
+- pkg:cargo/sdl3-src@3.2.6
+- pkg:cargo/sdl3-src@3.2.8
+- pkg:cargo/sdl3-src@3.2.10
+- pkg:cargo/sdl3-src@3.2.12
+- pkg:cargo/sdl3-src@3.2.14
+- pkg:cargo/sdl3-src@3.2.16
+- pkg:cargo/sdl3-src@3.2.18
+- pkg:cargo/sdl3-src@3.2.20
+- pkg:cargo/sdl3-src@3.2.22

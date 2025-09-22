@@ -1,0 +1,4 @@
+- pkg:cargo/windows-sys-ai@0.22.4
+- pkg:cargo/windows-sys-ai@0.22.5
+- pkg:cargo/windows-sys-ai@0.22.6
+- pkg:cargo/windows-sys-ai@0.23.0

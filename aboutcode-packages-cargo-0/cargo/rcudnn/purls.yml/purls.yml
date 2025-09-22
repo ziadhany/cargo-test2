@@ -1,0 +1,4 @@
+- pkg:cargo/rcudnn@1.5.0
+- pkg:cargo/rcudnn@1.6.0
+- pkg:cargo/rcudnn@1.7.0
+- pkg:cargo/rcudnn@1.8.0

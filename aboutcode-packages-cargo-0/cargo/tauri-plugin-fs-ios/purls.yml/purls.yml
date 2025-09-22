@@ -1,0 +1,4 @@
+- pkg:cargo/tauri-plugin-fs-ios@0.1.0
+- pkg:cargo/tauri-plugin-fs-ios@0.2.0
+- pkg:cargo/tauri-plugin-fs-ios@0.3.0
+- pkg:cargo/tauri-plugin-fs-ios@0.4.0

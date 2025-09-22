@@ -1,0 +1,7 @@
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@1.20250401.103401
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@1.20250415.103351
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@1.20250422.103312
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@1.20250513.103546
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@1.20250520.103512
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@1.20250826.103358
+- pkg:cargo/kcr_ocmagent_managed_openshift_io@2.20250909.103302
