@@ -1,0 +1,5 @@
+- pkg:cargo/gato-apache-cgi@0.1.0
+- pkg:cargo/gato-apache-cgi@0.2.1
+- pkg:cargo/gato-apache-cgi@0.4.0
+- pkg:cargo/gato-apache-cgi@0.4.1
+- pkg:cargo/gato-apache-cgi@0.5.0

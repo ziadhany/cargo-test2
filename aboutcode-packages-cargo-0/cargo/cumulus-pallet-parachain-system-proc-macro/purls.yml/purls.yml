@@ -1,0 +1,12 @@
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.0.0
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.1.0-dev.1
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.1.0-dev.3
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.1.0
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.2.0
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.3.0-dev.1
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.3.0
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.4.0
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.2.1
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.3.1
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.5.0
+- pkg:cargo/cumulus-pallet-parachain-system-proc-macro@0.6.0

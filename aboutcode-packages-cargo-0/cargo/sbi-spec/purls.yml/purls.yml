@@ -1,0 +1,14 @@
+- pkg:cargo/sbi-spec@0.0.1
+- pkg:cargo/sbi-spec@0.0.2
+- pkg:cargo/sbi-spec@0.0.3
+- pkg:cargo/sbi-spec@0.0.4
+- pkg:cargo/sbi-spec@0.0.5-rc.1
+- pkg:cargo/sbi-spec@0.0.5-rc.2
+- pkg:cargo/sbi-spec@0.0.5
+- pkg:cargo/sbi-spec@0.0.6
+- pkg:cargo/sbi-spec@0.0.7-alpha.1
+- pkg:cargo/sbi-spec@0.0.7-alpha.2
+- pkg:cargo/sbi-spec@0.0.7-alpha.3
+- pkg:cargo/sbi-spec@0.0.7
+- pkg:cargo/sbi-spec@0.0.8-rc.1
+- pkg:cargo/sbi-spec@0.0.8

@@ -1,0 +1,6 @@
+- pkg:cargo/rpc-perf@1.0.0-nightly.20160324
+- pkg:cargo/rpc-perf@1.0.0-nightly.20160404
+- pkg:cargo/rpc-perf@2.0.0
+- pkg:cargo/rpc-perf@2.0.1
+- pkg:cargo/rpc-perf@2.0.2
+- pkg:cargo/rpc-perf@2.0.3

@@ -1,0 +1,5 @@
+- pkg:cargo/workflow-encryption@0.14.0
+- pkg:cargo/workflow-encryption@0.14.1
+- pkg:cargo/workflow-encryption@0.15.0
+- pkg:cargo/workflow-encryption@0.17.0
+- pkg:cargo/workflow-encryption@0.18.0

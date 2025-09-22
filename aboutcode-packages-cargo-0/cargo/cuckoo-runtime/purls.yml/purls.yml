@@ -1,0 +1,5 @@
+- pkg:cargo/cuckoo-runtime@0.0.1
+- pkg:cargo/cuckoo-runtime@0.0.2
+- pkg:cargo/cuckoo-runtime@0.0.3
+- pkg:cargo/cuckoo-runtime@0.0.4
+- pkg:cargo/cuckoo-runtime@0.0.5-rc1

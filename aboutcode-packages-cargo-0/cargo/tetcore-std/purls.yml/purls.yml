@@ -1,0 +1,4 @@
+- pkg:cargo/tetcore-std@0.0.0
+- pkg:cargo/tetcore-std@2.0.1
+- pkg:cargo/tetcore-std@2.0.2
+- pkg:cargo/tetcore-std@2.1.2

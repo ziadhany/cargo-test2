@@ -1,0 +1,5 @@
+- pkg:cargo/blosc-sys@1.7.0
+- pkg:cargo/blosc-sys@1.7.0-rust1
+- pkg:cargo/blosc-sys@1.14.2
+- pkg:cargo/blosc-sys@1.14.4
+- pkg:cargo/blosc-sys@1.21.0

@@ -1,0 +1,4 @@
+- pkg:cargo/adafruit-bluefruit-protocol@0.1.0
+- pkg:cargo/adafruit-bluefruit-protocol@0.1.1
+- pkg:cargo/adafruit-bluefruit-protocol@0.2.0
+- pkg:cargo/adafruit-bluefruit-protocol@1.0.0

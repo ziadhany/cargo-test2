@@ -1,0 +1,3 @@
+- pkg:cargo/eth-state-fold@0.7.1
+- pkg:cargo/eth-state-fold@0.8.0
+- pkg:cargo/eth-state-fold@0.9.0

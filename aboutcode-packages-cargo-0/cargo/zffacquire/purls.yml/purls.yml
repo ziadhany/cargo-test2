@@ -1,0 +1,16 @@
+- pkg:cargo/zffacquire@0.9.0
+- pkg:cargo/zffacquire@0.10.0
+- pkg:cargo/zffacquire@0.10.1
+- pkg:cargo/zffacquire@1.0.0-beta
+- pkg:cargo/zffacquire@1.0.0-beta.1
+- pkg:cargo/zffacquire@1.0.0-beta.2
+- pkg:cargo/zffacquire@1.0.0-beta.3
+- pkg:cargo/zffacquire@1.0.0-beta.4
+- pkg:cargo/zffacquire@1.0.0-beta.5
+- pkg:cargo/zffacquire@1.0.0-beta.6
+- pkg:cargo/zffacquire@1.0.0-rc.0
+- pkg:cargo/zffacquire@1.0.0-rc.1
+- pkg:cargo/zffacquire@1.0.0
+- pkg:cargo/zffacquire@1.0.1
+- pkg:cargo/zffacquire@2.0.0-beta.0
+- pkg:cargo/zffacquire@2.0.0-rc.1

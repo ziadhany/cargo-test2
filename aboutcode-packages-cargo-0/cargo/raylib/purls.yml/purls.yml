@@ -1,0 +1,14 @@
+- pkg:cargo/raylib@0.9.0
+- pkg:cargo/raylib@0.9.1
+- pkg:cargo/raylib@0.11.1
+- pkg:cargo/raylib@0.11.2
+- pkg:cargo/raylib@1.0.0
+- pkg:cargo/raylib@1.0.1
+- pkg:cargo/raylib@3.0.0
+- pkg:cargo/raylib@3.5.0
+- pkg:cargo/raylib@3.7.0
+- pkg:cargo/raylib@5.0.0
+- pkg:cargo/raylib@5.0.1
+- pkg:cargo/raylib@5.0.2
+- pkg:cargo/raylib@5.5.0
+- pkg:cargo/raylib@5.5.1

@@ -1,0 +1,4 @@
+- pkg:cargo/azure_mgmt_communitytraining@0.18.0
+- pkg:cargo/azure_mgmt_communitytraining@0.19.0
+- pkg:cargo/azure_mgmt_communitytraining@0.20.0
+- pkg:cargo/azure_mgmt_communitytraining@0.21.0

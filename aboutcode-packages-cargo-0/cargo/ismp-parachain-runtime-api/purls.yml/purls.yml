@@ -1,0 +1,11 @@
+- pkg:cargo/ismp-parachain-runtime-api@1.6.0
+- pkg:cargo/ismp-parachain-runtime-api@1.6.1
+- pkg:cargo/ismp-parachain-runtime-api@1.6.2
+- pkg:cargo/ismp-parachain-runtime-api@1.15.0
+- pkg:cargo/ismp-parachain-runtime-api@1.15.1
+- pkg:cargo/ismp-parachain-runtime-api@15.0.0
+- pkg:cargo/ismp-parachain-runtime-api@16.0.0
+- pkg:cargo/ismp-parachain-runtime-api@2412.0.0
+- pkg:cargo/ismp-parachain-runtime-api@2503.0.0
+- pkg:cargo/ismp-parachain-runtime-api@2503.1.0
+- pkg:cargo/ismp-parachain-runtime-api@2506.0.0

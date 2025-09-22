@@ -1,0 +1,17 @@
+- pkg:cargo/sp-serializer@2.0.0-alpha.2
+- pkg:cargo/sp-serializer@2.0.0-alpha.3
+- pkg:cargo/sp-serializer@2.0.0-alpha.5
+- pkg:cargo/sp-serializer@2.0.0-alpha.6
+- pkg:cargo/sp-serializer@2.0.0-alpha.7
+- pkg:cargo/sp-serializer@2.0.0-alpha.8
+- pkg:cargo/sp-serializer@2.0.0-rc1
+- pkg:cargo/sp-serializer@2.0.0-rc2
+- pkg:cargo/sp-serializer@2.0.0-rc3
+- pkg:cargo/sp-serializer@2.0.0-rc4
+- pkg:cargo/sp-serializer@2.0.0-rc5
+- pkg:cargo/sp-serializer@2.0.0-rc6
+- pkg:cargo/sp-serializer@2.0.0
+- pkg:cargo/sp-serializer@2.0.1
+- pkg:cargo/sp-serializer@3.0.0
+- pkg:cargo/sp-serializer@4.0.0
+- pkg:cargo/sp-serializer@5.0.0

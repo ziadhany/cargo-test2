@@ -1,0 +1,5 @@
+- pkg:cargo/simd-r-drive-ws-client@0.7.0-alpha
+- pkg:cargo/simd-r-drive-ws-client@0.8.0-alpha
+- pkg:cargo/simd-r-drive-ws-client@0.9.0-alpha
+- pkg:cargo/simd-r-drive-ws-client@0.10.0-alpha
+- pkg:cargo/simd-r-drive-ws-client@0.11.0-alpha

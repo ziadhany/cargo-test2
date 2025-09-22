@@ -1,0 +1,2 @@
+- pkg:cargo/embedded-threadsafe@0.2.2
+- pkg:cargo/embedded-threadsafe@0.2.3
