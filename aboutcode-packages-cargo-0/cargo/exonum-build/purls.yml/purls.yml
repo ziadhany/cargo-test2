@@ -1,0 +1,10 @@
+- pkg:cargo/exonum-build@0.10.0
+- pkg:cargo/exonum-build@0.11.0
+- pkg:cargo/exonum-build@0.12.0
+- pkg:cargo/exonum-build@0.13.0-rc.1
+- pkg:cargo/exonum-build@0.13.0-rc.2
+- pkg:cargo/exonum-build@1.0.0-rc.1
+- pkg:cargo/exonum-build@1.0.0-rc.2
+- pkg:cargo/exonum-build@1.0.0-rc.3
+- pkg:cargo/exonum-build@1.0.0
+- pkg:cargo/exonum-build@1.0.1

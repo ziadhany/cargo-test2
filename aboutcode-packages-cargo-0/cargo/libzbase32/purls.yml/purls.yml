@@ -1,0 +1,4 @@
+- pkg:cargo/libzbase32@1.0.0
+- pkg:cargo/libzbase32@1.1.0
+- pkg:cargo/libzbase32@2.0.0
+- pkg:cargo/libzbase32@2.0.1

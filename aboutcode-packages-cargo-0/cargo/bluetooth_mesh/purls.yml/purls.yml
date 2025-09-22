@@ -1,0 +1,4 @@
+- pkg:cargo/bluetooth_mesh@0.1.0
+- pkg:cargo/bluetooth_mesh@0.1.1
+- pkg:cargo/bluetooth_mesh@0.1.2
+- pkg:cargo/bluetooth_mesh@0.1.4

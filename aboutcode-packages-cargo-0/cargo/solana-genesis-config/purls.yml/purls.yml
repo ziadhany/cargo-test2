@@ -1,0 +1,6 @@
+- pkg:cargo/solana-genesis-config@0.0.1
+- pkg:cargo/solana-genesis-config@0.0.2
+- pkg:cargo/solana-genesis-config@2.2.0
+- pkg:cargo/solana-genesis-config@2.2.1
+- pkg:cargo/solana-genesis-config@2.3.0
+- pkg:cargo/solana-genesis-config@3.0.0

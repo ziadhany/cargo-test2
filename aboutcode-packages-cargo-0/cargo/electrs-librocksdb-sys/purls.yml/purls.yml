@@ -1,0 +1,6 @@
+- pkg:cargo/electrs-librocksdb-sys@6.11.4-e1
+- pkg:cargo/electrs-librocksdb-sys@6.11.4-e2
+- pkg:cargo/electrs-librocksdb-sys@6.11.4-e3
+- pkg:cargo/electrs-librocksdb-sys@0.9.0-e1%2B7.8.3
+- pkg:cargo/electrs-librocksdb-sys@0.9.0-e2%2B7.8.3
+- pkg:cargo/electrs-librocksdb-sys@0.9.0-e3%2B7.8.3

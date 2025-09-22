@@ -1,0 +1,2 @@
+- pkg:cargo/nu_plugin_from_dhall@0.0.1
+- pkg:cargo/nu_plugin_from_dhall@0.1.0

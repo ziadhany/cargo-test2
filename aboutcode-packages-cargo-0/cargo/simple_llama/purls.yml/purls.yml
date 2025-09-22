@@ -1,0 +1,5 @@
+- pkg:cargo/simple_llama@0.1.0
+- pkg:cargo/simple_llama@0.1.1
+- pkg:cargo/simple_llama@0.1.2
+- pkg:cargo/simple_llama@0.1.3-a
+- pkg:cargo/simple_llama@0.1.3-b
