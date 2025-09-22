@@ -1,0 +1,16 @@
+- pkg:cargo/linutil_core@24.9.19
+- pkg:cargo/linutil_core@24.9.22
+- pkg:cargo/linutil_core@24.9.28
+- pkg:cargo/linutil_core@24.10.31
+- pkg:cargo/linutil_core@25.1.10
+- pkg:cargo/linutil_core@25.2.13
+- pkg:cargo/linutil_core@25.6.27
+- pkg:cargo/linutil_core@25.7.18
+- pkg:cargo/linutil_core@25.8.11
+- pkg:cargo/linutil_core@25.8.12
+- pkg:cargo/linutil_core@25.8.13
+- pkg:cargo/linutil_core@25.8.14
+- pkg:cargo/linutil_core@25.8.19
+- pkg:cargo/linutil_core@25.8.20
+- pkg:cargo/linutil_core@25.8.21
+- pkg:cargo/linutil_core@25.9.9

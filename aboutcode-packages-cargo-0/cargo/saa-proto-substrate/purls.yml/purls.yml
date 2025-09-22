@@ -1,0 +1,4 @@
+- pkg:cargo/saa-proto-substrate@0.25.0
+- pkg:cargo/saa-proto-substrate@0.26.0-beta
+- pkg:cargo/saa-proto-substrate@0.26.0
+- pkg:cargo/saa-proto-substrate@0.27.0

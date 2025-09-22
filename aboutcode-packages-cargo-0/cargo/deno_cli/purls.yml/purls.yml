@@ -1,0 +1,14 @@
+- pkg:cargo/deno_cli@0.0.1
+- pkg:cargo/deno_cli@0.18.0-preview4
+- pkg:cargo/deno_cli@0.18.1
+- pkg:cargo/deno_cli@0.18.2
+- pkg:cargo/deno_cli@0.18.3
+- pkg:cargo/deno_cli@0.18.4
+- pkg:cargo/deno_cli@0.19.0
+- pkg:cargo/deno_cli@0.20.0
+- pkg:cargo/deno_cli@0.21.0
+- pkg:cargo/deno_cli@0.22.0
+- pkg:cargo/deno_cli@0.23.0
+- pkg:cargo/deno_cli@0.23.1
+- pkg:cargo/deno_cli@0.23.2
+- pkg:cargo/deno_cli@0.23.3

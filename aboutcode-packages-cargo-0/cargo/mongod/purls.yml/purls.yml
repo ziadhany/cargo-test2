@@ -1,0 +1,13 @@
+- pkg:cargo/mongod@0.1.0
+- pkg:cargo/mongod@0.1.1
+- pkg:cargo/mongod@0.1.2
+- pkg:cargo/mongod@0.2.0
+- pkg:cargo/mongod@0.2.1
+- pkg:cargo/mongod@0.2.2
+- pkg:cargo/mongod@0.3.0
+- pkg:cargo/mongod@0.3.1
+- pkg:cargo/mongod@0.3.2
+- pkg:cargo/mongod@0.3.3
+- pkg:cargo/mongod@0.3.4
+- pkg:cargo/mongod@0.3.5
+- pkg:cargo/mongod@0.3.6

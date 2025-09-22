@@ -1,0 +1,2 @@
+- pkg:cargo/tc-consensus-babe-rpc@0.0.0
+- pkg:cargo/tc-consensus-babe-rpc@0.8.0

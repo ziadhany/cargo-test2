@@ -1,0 +1,4 @@
+- pkg:cargo/stellar-rs@0.1.0
+- pkg:cargo/stellar-rs@0.2.0
+- pkg:cargo/stellar-rs@0.3.2
+- pkg:cargo/stellar-rs@1.0.0
